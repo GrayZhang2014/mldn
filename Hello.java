@@ -5,5 +5,12 @@ public class Hello{
 		System.out.println("hello  所发生的方式");
 		System.out.println("hello fsdfsdfasdfa");
 		System.out.println("hello  zhangbnalgong");
+		System.out.println("hello  zhangbnalgong");
+		System.out.println("hello  zhangbnalgong");
+		System.out.println("hello  zhangbnalgong");
+		System.out.println("hello  zhangbnalgong");
+		System.out.println("hello  zhangbnalgong");
+		System.out.println("hello  zhangbnalgong");
+		System.out.println("hello  zhangbnalgong");
 	}
 }
